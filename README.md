@@ -2,7 +2,7 @@
 
 A single autonomous AI agent that switches between four security roles — Attacker, Defender, Analyst, and Threat Hunter — to detect, exploit, patch, and report a vulnerability in one continuous loop.
 
-Built for the Nebius x NVIDIA Global AI Hackathon.
+Live Demo: https://sunshine-3fcbk46ykmypixc8fut8lb.streamlit.app/
 
 ## What it does
 
